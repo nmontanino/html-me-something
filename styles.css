@@ -1,5 +1,5 @@
 body, html{
-    margin: 15px auto;
+    margin: 10px auto;
     padding: 0;
     font-family: 'Zilla Slab', serif;
     max-width: 920px;
@@ -20,12 +20,30 @@ header {
     padding: 5px 30px;
     /* margin-top: 10px; */
     color: #1C2130;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Kreon', serif; 
 }
 
+/* .tab{
+    background-color:#1C2130;
+    width: 25%;
+    color: #fff;  
+} */
+
+h1{
+    font-size: 34px;
+}
+
+h2{
+    margin-top: 0px;  
+}
+
+section h3{
+    color: #1C2130;
+}
+
 article{
-    background-color:white;
+    background-color: white;
     margin-top: 15px;
 }
 
@@ -35,18 +53,18 @@ section {
 
 section p{
      padding: 0 10px;
-     margin-bottom: 30px; 
+     margin-bottom: 30px;
 }
 
 figcaption{
-    font-size:14px;
+    font-size: 14px;
 }
 
 footer{
     background-color:#1C2130;
     color: #fff;
     padding: 5px;
-    text-align:center;
+    text-align: center;
     font-size: 12px;
 }
 
