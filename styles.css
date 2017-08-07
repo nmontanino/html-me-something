@@ -1,0 +1,47 @@
+body, html{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Zilla Slab', serif; 
+}
+
+header {
+    background-color:#1C2130;
+    color: #fff;
+}
+
+.title{
+    border:1px #1C2130 solid;    
+    margin: 0px 30px;   
+}
+
+.intro{
+    padding: 5px 30px;
+    color: #1C2130;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
+
+section {
+    padding: 0 30px;
+}
+
+/* h2{
+    background-color:#1C2130;
+    color:white;
+    padding:4px;
+} */
+
+section p{
+     padding: 0 10px; 
+}
+
+figcaption{
+    font-size:14px;
+}
+
+footer{
+    background-color:#1C2130;
+    color: #fff;
+    padding: 5px;
+    text-align:center;
+}
