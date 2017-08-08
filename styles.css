@@ -6,11 +6,6 @@ body, html{
     background-color:#e5e5e5; 
 }
 
-/* header {
-    background-color:#1C2130;
-    color: #fff;
-} */
-
 #title{
     border:1px #1C2130 solid;    
     /* margin: 0px 30px; */
@@ -28,13 +23,6 @@ body, html{
     margin: 20px, 0;
     background-color: white; 
 }
-
-
-/* .tab{
-    background-color:#1C2130;
-    width: 25%;
-    color: #fff;  
-} */
 
 h1{
     font-size: 34px;
