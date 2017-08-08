@@ -7,17 +7,15 @@ body, html{
 }
 
 #title{
-    border:1px #1C2130 solid;    
-    /* margin: 0px 30px; */
-    background-color:#1C2130;
+    border:1px #1e2438 solid;    
+    background-color:#1e2438;
     color: #fff;
     margin-bottom: 20px;   
 }
 
 .intro{
     padding: 5px 30px;
-    /* margin-top: 10px; */
-    color: #1C2130;
+    color: #1e2438;
     font-size: 16px;
     font-family: 'Kreon', serif;
     margin: 20px, 0;
@@ -34,7 +32,7 @@ h2{
 }
 
 section h3{
-    color: #1C2130;
+    color: #1e2438;
 }
 
 article{
@@ -49,7 +47,6 @@ section {
 section p{
      padding: 0 10px;
      margin-bottom: 20px;
-     /* text-justify: left; */
 }
 
 img {
@@ -66,7 +63,7 @@ figcaption{
 }
 
 footer{
-    background-color:#1C2130;
+    background-color:#1e2438;
     color: #fff;
     padding: 5px;
     text-align: center;
