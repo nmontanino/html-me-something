@@ -61,7 +61,7 @@ section {
 section p{
      padding: 0 10px;
      margin-bottom: 20px;
-     text-justify: left;
+     /* text-justify: left; */
 }
 
 img {
